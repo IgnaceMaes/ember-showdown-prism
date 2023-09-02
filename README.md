@@ -1,3 +1,5 @@
+Proof of concept on integrating Shiki in ember-showdown.
+
 # ember-showdown-prism
 
 ember-showdown-prism is a drop-in addon that automatically adds [Prism](https://prismjs.com/) syntax highlighting to code blocks if you are using [showdown](https://github.com/showdownjs/showdown) to render your Markdown.
